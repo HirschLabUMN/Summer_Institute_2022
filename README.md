@@ -10,7 +10,7 @@ This course covers principles, applications, and limitations regarding the devel
 2:50-4:30&emsp;	Sequencing Technologies Lecture<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Accessing existing sequence data<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Sequencing QC hands on exercise<br />
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Questions and day 1 wrap up<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Questions and day 1 wrap up<br /><br />
 
 
 **Thursday (6/23):** 
@@ -28,7 +28,7 @@ This course covers principles, applications, and limitations regarding the devel
 2:30-2:50&emsp;	Coffee break<br />
 2:50-4:30&emsp;	Pan Genomics<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Pan Genomics repetitive sequences<br />
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Questions and day 2 wrap up<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Questions and day 2 wrap up<br /><br />
 
 
 **Friday (6/24):** 
