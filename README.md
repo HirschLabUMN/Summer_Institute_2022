@@ -3,59 +3,48 @@ This course covers principles, applications, and limitations regarding the devel
 
 **Wednesday (6/22):** 
 
-1:00-2:30	  Course introduction<br />
-		        GitHub<br />
-		        Introduction to the Plant genome Lecture<br />
-2:30-2:50	  Coffee break<br />
-2:50-4:30	  Sequencing Technologies Lecture<br />
-		        Accessing existing sequence data<br />
-		        Sequencing QC hands on exercise<br />
-		        Questions and day 1 wrap up<br />
+1:00-2:30&emsp;&nbsp;	Course introduction<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	GitHub<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Introduction to the Plant genome Lecture<br />
+2:30-2:50&emsp;	Coffee break<br />
+2:50-4:30&emsp;	Sequencing Technologies Lecture<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Accessing existing sequence data<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Sequencing QC hands on exercise<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Questions and day 1 wrap up<br />
 
 
 **Thursday (6/23):** 
 
-8:15-9:45	Genome assembly (60 minute)
-		Gene structural annotation (30 minutes)
-9:45-10:05	Coffee break
-10:05-11:45	TE structural annotation (30 minutes)
-		Gene functional annotation (30 minutes)
-		Resource allocation exercise (40 minutes)
-11:45-1:00	Lunch
-1:00-2:30	Genome diversity (30 minutes)
-		Reduced representation (30 minutes)
-		Population and quantitative genomics (30 minutes)
-2:30-2:50	Coffee break
-2:50-4:30	Pan Genomics (45 minutes)
-		Pan Genomics repetitive sequences (45 minutes)
-		Questions and day 2 wrap up (10 minutes)
+8:15-9:45&emsp;	Genome assembly<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Gene structural annotation<br />
+9:45-10:05&ensp;	Coffee break<br />
+10:05-11:45&nbsp;	TE structural annotation<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Gene functional annotation<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Resource allocation exercise<br />
+11:45-1:00&emsp;	Lunch<br />
+1:00-2:30&emsp;	Genome diversity<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Reduced representation<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Population and quantitative genomics<br />
+2:30-2:50&emsp;	Coffee break<br />
+2:50-4:30&emsp;	Pan Genomics<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Pan Genomics repetitive sequences<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Questions and day 2 wrap up<br />
 
 
 **Friday (6/24):** 
 
-8:00-8:45 	Genome diversity <br />
-8:45-9:15	Reduced representation<br />
-9:15-10:15	Pan Genomics<br />
-10:15-10:30	Break<br />
-10:30-11:00	Pan Genomics in repetitive space <br />
-11:00-11:50	Population and quantitative genomics <br />
-11:50-12:00	Questions and day 3 wrap up <br />
+8:15-9:45&emsp;		Transcriptomics<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Applications of transcriptomics<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Transcriptome assembly<br />
+9:45-10:05&ensp;		Coffee break<br />
+10:05-11:45&nbsp;		Introduction to R<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Differential expression analysis exercise<br />
+11:45-1:00&emsp;		Lunch
+1:00-2:30&emsp;		Principles of data visualization<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Data visualization in R<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Data visualization exercises<br />
+2:30-2:50&emsp;		Coffee break
+2:50-4:30&emsp;		Experimental design exercise<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Questions and day 3 wrap up<br />
 
-**Thursday (Day 4):**
 
-8:00-9:00	Transcriptomics<br />
-9:00-9:30	Applications of transcriptomics <br />
-9:30-10:00	Transcriptome assembly<br />
-10:00-10:15	Break<br />
-10:15-11:00	Introduction to R<br />
-11:00-11:50	Differential expression analysis<br />
-11:50-12:00	Questions and day 4 wrap up<br />
-
-**Friday (Day 5):**
-
-8:00-9:00	Principles of data visualization<br />
-9:00-10:00	Data visualization in R <br />
-10:00-10:15	Break<br />
-10:15-11:00	Data visualization exercise 1<br />
-11:00-11:50	Data visualization exercise 2	<br />
-11:50-12:00	Questions and day 5 wrap up<br />
