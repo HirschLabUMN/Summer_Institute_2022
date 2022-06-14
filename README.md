@@ -1,4 +1,4 @@
-# University of Minnesota Plant Breeding Summer Institute 2022<br/>Applied Plant Genomics and Bioinformatics
+# UMN Plant Breeding Summer Institute 2022<br/>Applied Plant Genomics and Bioinformatics
 This course covers principles, applications, and limitations regarding the development and use of genomics resources in plants. 
 
 **Wednesday (6/22):** 
