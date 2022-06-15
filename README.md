@@ -34,12 +34,11 @@ This course covers principles, applications, and limitations regarding the devel
 **Friday (6/24):** 
 
 8:15-9:45&emsp;		Transcriptomics<br />
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Applications of transcriptomics<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Transcriptome assembly<br />
 9:45-10:05&ensp;		Coffee break<br />
 10:05-11:45&nbsp;		Introduction to R<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Differential expression analysis exercise<br />
-11:45-1:00&emsp;		Lunch
+11:45-1:00&emsp;		Lunch<br />
 1:00-2:30&emsp;		Principles of data visualization<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Data visualization in R<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Data visualization exercises<br />
