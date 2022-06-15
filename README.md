@@ -43,7 +43,7 @@ This course covers principles, applications, and limitations regarding the devel
 1:00-2:30&emsp;		Principles of data visualization<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Data visualization in R<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Data visualization exercises<br />
-2:30-2:50&emsp;		Coffee break
+2:30-2:50&emsp;		Coffee break<br />
 2:50-4:30&emsp;		Experimental design exercise<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Questions and day 3 wrap up<br />
 
