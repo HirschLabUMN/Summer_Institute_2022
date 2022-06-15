@@ -18,8 +18,8 @@ This course covers principles, applications, and limitations regarding the devel
 8:15-9:45&emsp;	Genome assembly<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Gene structural annotation<br />
 9:45-10:05&ensp;	Coffee break<br />
-10:05-11:45&nbsp;	TE structural annotation<br />
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Gene functional annotation<br />
+10:05-11:45&nbsp;	Gene functional annotation<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	TE structural annotation<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Resource allocation exercise<br />
 11:45-1:00&emsp;	Lunch<br />
 1:00-2:30&emsp;	Genome diversity<br />
