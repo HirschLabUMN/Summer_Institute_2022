@@ -24,7 +24,7 @@ This course covers principles, applications, and limitations regarding the devel
 11:45-1:00&emsp;	Lunch<br />
 1:00-2:30&emsp;	Genome diversity<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Reduced representation<br />
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Population and quantitative genomics<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Population Sequencing Exercise<br />
 2:30-2:50&emsp;	Coffee break<br />
 2:50-4:30&emsp;	Pan Genomics<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;	Pan Genomics repetitive sequences<br />
